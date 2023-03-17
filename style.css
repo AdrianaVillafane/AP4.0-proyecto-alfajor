@@ -17,8 +17,8 @@ body {
   
 }
 .encabezado{
-  margin:30px;
-  padding: auto;
+  margin:50px;
+  padding: 30px;
 }
 
 img {
@@ -28,22 +28,28 @@ img {
 }
 .tiempo {
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   font-style: italic;
 }
 h1 {
-  font-size: 50px;
+  font-size: 60px;
   text-align: center;
 }
-h2 {
-  font-size: 30px;
+h2 {padding: 20px;
+  font-size: 35px;
   text-align: center;
   text-align: justify;
 }
 h3 {
-  font-size: 26px;
+  font-size: 40px;
+  padding: 15px;
+  text-decoration: solid;
 }
-
+.ingredientes{
+  margin: 25px;
+  padding: 25px;
+  font-size: 30px;
+}
 section{
 
     background-color: #fdcb6e;
