@@ -46,19 +46,20 @@ h3 {
   text-decoration: solid;
 }
 .ingredientes{
-  margin: 25px;
+  margin-left: 65px;
   padding: 25px;
   font-size: 30px;
 }
-section{
-
-    background-color: #fdcb6e;
-    padding: 20px;
-    border-radius: 30px;
-    display: flex;
-    justify-content: space-evenly;
-    box-shadow: 4px 4px 8px 10px;
-  }
+.preparacion{
+  margin-left: 50px;
+  font-size: 30px;
+  padding: 25px;
+}
+.nota{
+  font-size: 30px;
+  padding: 30px;
+  margin: 30px 25px;
+}
 nav {
   background-color: #fdcb6e;
   padding: 20px;
